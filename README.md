@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Junior Front End Developer based in Bruxelles.<br>🐣 Just graduated from Digital City .<br>🤠 Working as a freelancer. (Check my work!)<br>🔭 Looking for a Job or an internship.<br>
+💻 Junior Front End Developer based in Bruxelles.<br>🐣 Just graduated from Digital City .<br>🤠 Working as a freelancer. (Check my work!)<br>🔭 Currently on an internship at Iterates Consulting<br>
 
 
 ## 🌐 Socials:
